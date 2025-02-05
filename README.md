@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Daniel Maffezzoli
 
-<!--
-**Maffezzoli/Maffezzoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência de Dados no IBMEC, apaixonado por tecnologia e desenvolvimento de software. Busco constantemente aprender e aplicar novos conhecimentos em projetos práticos.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 📚 Cursando Ciência de Dados no IBMEC
+- 🌱 Atualmente aprendendo e trabalhando com Python, React e análise de dados
+- 🔭 Desenvolvendo projetos acadêmicos com foco em soluções práticas
+- 🌍 Experiência internacional com intercâmbio na Malvern House
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+## 🎯 Projetos em Destaque
+### Projeto Dosimagem
+Sistema desenvolvido para empresa Dosimagem utilizando React e Firebase, aplicando metodologia 5W2H.
+
+### Streamlit Data App
+Aplicação de análise de vendas desenvolvida com Python, Streamlit e Django.
+
+## 📊 Estatísticas GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Maffezzoli&show_icons=true&theme=dark)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-maffezzoli-745a45247/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maffezzolidaniel78@gmail.com)
