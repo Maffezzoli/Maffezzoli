@@ -16,13 +16,6 @@ Estudante de Ciência de Dados no IBMEC, apaixonado por tecnologia e desenvolvim
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 🎯 Projetos em Destaque
-### Projeto Dosimagem
-Sistema desenvolvido para empresa Dosimagem utilizando React e Firebase, aplicando metodologia 5W2H.
-
-### Streamlit Data App
-Aplicação de análise de vendas desenvolvida com Python, Streamlit e Django.
-
 ## 📊 Estatísticas GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Maffezzoli&show_icons=true&theme=dark)
 
